@@ -1,0 +1,1 @@
+# PatikaVeriAnalizi2.Proje
