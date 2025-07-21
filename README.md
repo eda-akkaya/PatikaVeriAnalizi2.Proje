@@ -1,11 +1,11 @@
 # PatikaVeriAnalizi2.Proje
-# 📊 Power BI Satış Raporu – Pınar Markası Analizi
+# Power BI Satış Raporu – Pınar Markası Analizi
 
 Bu proje, Patika.dev ve Kız Başına tarafından düzenlenen veri analizi bootcampinin final projesidir. Sentetik veriler ve Power BI kullanılarak oluşturulmuştur. Pınar markasına ait satış, müşteri ve kategori analizlerini içeren interaktif bir rapordur.
 
 ---
 
-## 🎯 Proje Amacı
+##  Proje Amacı
 
 Bu çalışmanın amacı, Pınar markası özelinde satış performansını farklı perspektiflerden analiz etmek ve görselleştirmektir. Rapor, yöneticilerin veya karar vericilerin aşağıdaki sorulara hızlıca yanıt bulmasını hedefler:
 
@@ -18,7 +18,7 @@ Bu çalışmanın amacı, Pınar markası özelinde satış performansını fark
 
 ---
 
-## 🗂️ Kullanılan Veritabanı Tabloları
+##  Kullanılan Veritabanı Tabloları
 
 | Tablo Adı       | Açıklama                                  |
 |-----------------|--------------------------------------------|
@@ -31,9 +31,9 @@ Bu çalışmanın amacı, Pınar markası özelinde satış performansını fark
 
 ---
 
-## 📌 Rapor Sayfaları
+##  Rapor Sayfaları
 
-### 1. 🏠 Giriş Sayfası
+### 1.  Giriş Sayfası
 - Navigasyon butonlarıyla diğer sayfalara yönlendirme
 
 ### 2. 📊 Özet Sayfa
@@ -48,12 +48,12 @@ Bu çalışmanın amacı, Pınar markası özelinde satış performansını fark
 - Yaş gruplarına göre satış
 - İstanbul’daki en yüksek harcama yapan 10 müşteri
 
-### 4. 🧾 Kategori Perspektifi
+### 4.  Kategori Perspektifi
 - İstanbul’da yaşayan genç kullanıcıların kategorilere göre harcamalarının ağaç haritası
 
 ---
 
-## 🧠 Oluşturulan DAX Ölçüleri ve Sütunlar
+##  Oluşturulan DAX Ölçüleri ve Sütunlar
 
 - Toplam Satış Adeti  
 - Toplam Ciro  
