@@ -65,7 +65,7 @@ Bu çalışmanın amacı, Pınar markası özelinde satış performansını fark
 
 ---
 
-## 🎯 Filtre Uygulaması
+##  Filtre Uygulaması
 
 Bu rapor özel olarak **`Ürünler[BRAND] = "Pınar"`** olacak şekilde filtrelenmiştir. Tüm görselleştirmeler sadece Pınar markasına ait satış verilerini içerir.
 
