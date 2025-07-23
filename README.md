@@ -36,13 +36,13 @@ Bu çalışmanın amacı, Pınar markası özelinde satış performansını fark
 ### 1.  Giriş Sayfası
 - Navigasyon butonlarıyla diğer sayfalara yönlendirme
 
-### 2. 📊 Özet Sayfa
+### 2.  Özet Sayfa
 - Toplam satış adedi, ciro, müşteri ve sipariş sayısı
 - Haftasonu / haftaiçi satış karşılaştırması
 - Saatlik satış dağılımı
 - Bölgelere göre satış adedi
 
-### 3. 👤 Müşteri Perspektifi
+### 3.  Müşteri Perspektifi
 - Kadın / erkek müşteri sayısı
 - Bölgelere göre müşteri dağılımı
 - Yaş gruplarına göre satış
